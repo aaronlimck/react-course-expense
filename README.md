@@ -1,9 +1,9 @@
-<div align="center">
-  # Expense Recording 
-**Just another expense recording webapplication
-</div>
+# Expense Recording 
+Just another expense recording web application
 
 [**Website**](https://vercel.com/aaronlimck/react-course-expenses/CSsvqzsMhBNHdKGgk8ohb2yxca1C)
+
+![Screenshot of Expense App](https://github.com/aaronlimck/react-course-expense/blob/main/screenshot/cover.png)
 
 This project was created with Create React App for the purpose of:
 - Understanding React basics 
