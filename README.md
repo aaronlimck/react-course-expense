@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+<div align="center">
+  # Expense Recording 
+**Just another expense recording webapplication
+</div>
 
-This project was created with Create React App for the purpose of 
+[**Website**](https://vercel.com/aaronlimck/react-course-expenses/CSsvqzsMhBNHdKGgk8ohb2yxca1C)
+
+This project was created with Create React App for the purpose of:
 - Understanding React basics 
 - Working with components 
 - React State 
@@ -10,7 +15,7 @@ This project was created with Create React App for the purpose of
 ## Technicalities
 Node.js is required to run this web app. Here's a list of readily-provided scripts:
 
-- ###npm install - downloads all the required dependencies 
-- ###npm start - starts a local server for development
-- ###npm run build - build the files for production in dist folder
-- ###npm run serve - starts a local server to preview production build
+- `npm install` - downloads all the required dependencies 
+- `npm start` - starts a local server for development
+- `npm run build` - build the files for production in dist folder
+- `npm run serve` - starts a local server to preview production build
